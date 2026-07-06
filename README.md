@@ -211,7 +211,6 @@ Skilled in:
 - JavaScript
 - Manual Testing
 - API Testing
-- Salesforce Testing
 - SQL
 - Git & GitHub
 
